@@ -38,14 +38,17 @@ Currently, I am focused on strengthening my knowledge of software development, n
 
 ---
 
-![Snake animation](https://github.com/Kial1266/Kial1266/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
-### 🚀 Current Focus
+### Current Focus
 
 * Backend Development
 * MongoDB Database Design
 * Cybersecurity Fundamentals
 * Python Automation
 * AI Projects
+
+---
+
+![Snake animation](https://github.com/Kial1266/Kial1266/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
