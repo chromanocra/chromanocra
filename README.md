@@ -3,6 +3,8 @@ Hi, I'm Muhammad Rizky Alfarizi, an Informatics student with a strong interest i
 
 Currently, I am focused on strengthening my knowledge of software development, networking, and automation while working on academic and personal projects. This GitHub profile serves as a place to document my learning journey, share projects, and showcase the skills I continue to develop as an aspiring IT professional.
 
+---
+
 ###  About Me
 
 * 🎓 Informatics Student
@@ -10,6 +12,8 @@ Currently, I am focused on strengthening my knowledge of software development, n
 * 🎮 Interested in Game Development with Unity
 * 🌱 Currently exploring MongoDB, Networking, and Backend Development
 * 🚀 Building projects to improve problem-solving and software engineering skills
+
+---
 
 ### Connect With Me
 
@@ -34,17 +38,9 @@ Currently, I am focused on strengthening my knowledge of software development, n
 
 ---
 
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Kial1266\&show_icons=true\&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=Kial1266\&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kial1266\&layout=compact\&theme=tokyonight)
+![Snake animation](https://github.com/Kial1266/Kial1266/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
-
-
 
 ### 🚀 Current Focus
 
