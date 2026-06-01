@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate lazy student that like  creates a lazy thing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kial1266&label=Profile%20views&color=0e75b6&style=flat" alt="kial1266" /> </p>
 
