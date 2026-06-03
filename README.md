@@ -15,15 +15,6 @@ Currently, I am focused on strengthening my knowledge of software development, n
 
 ---
 
-### Connect With Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook\&logoColor=white)](https://facebook.com/KIAL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/kyallki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-rizky-alfarizi-29838b328/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:muhammadrizkyal1266@gmail.com)
-
----
-
 ### Tech Stack
 
 - Python
@@ -52,3 +43,9 @@ Currently, I am focused on strengthening my knowledge of software development, n
 
 ---
 
+### Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook\&logoColor=white)](https://facebook.com/KIAL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/kyallki)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-rizky-alfarizi-29838b328/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:muhammadrizkyal1266@gmail.com)
