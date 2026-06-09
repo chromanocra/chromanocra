@@ -5,16 +5,6 @@ Currently, I am focused on strengthening my knowledge of software development, n
 
 ---
 
-###  About Me
-
-* 🎓 Informatics Student
-* 🐍 Learning Python, Automation, AI, and Cybersecurity
-* 🎮 Interested in Game Development with Unity
-* 🌱 Currently exploring MongoDB, Networking, and Backend Development
-* 🚀 Building projects to improve problem-solving and software engineering skills
-
----
-
 ### Tech Stack
 
 - Python
@@ -23,7 +13,6 @@ Currently, I am focused on strengthening my knowledge of software development, n
 - Git
 - GitHub
 - Linux
-- Unity
 - REST API
 - Networking Fundamentals
 
@@ -43,9 +32,3 @@ Currently, I am focused on strengthening my knowledge of software development, n
 
 ---
 
-### Connect With Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook\&logoColor=white)](https://facebook.com/KIAL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram\&logoColor=white)](https://instagram.com/kyallki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammad-rizky-alfarizi-29838b328/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail\&logoColor=white)](mailto:muhammadrizkyal1266@gmail.com)
