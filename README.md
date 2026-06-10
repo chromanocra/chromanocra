@@ -22,9 +22,7 @@ Currently, I am focused on strengthening my knowledge of software development, n
 
 * Backend Development
 * MongoDB Database Design
-* Cybersecurity Fundamentals
 * Python Automation
-* AI Projects
 
 ---
 
